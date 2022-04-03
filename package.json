@@ -1,0 +1,15 @@
+{
+  "name": "fancy-cards",
+  "version": "1.0.8",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-dom": ">=16.0.0"
+  },
+  "author": "m.rynkowski@zhr.pl",
+  "license": "ISC"
+}

@@ -1,0 +1,1 @@
+![example of FancyCard usage](./readme/example.gif)
