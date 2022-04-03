@@ -1,5 +1,5 @@
 # description
-fancy-cards exports a React Component - card with an overlay. The overlay is hiding on hover. The transition effect is based on cursor position. 
+fancy-cards exports a React Component.  It renders its children with an overlay. The overlay is hiding on hover. The transition effect is based on cursor position. 
 # installation
 
 ```
